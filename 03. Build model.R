@@ -726,6 +726,10 @@ write.csv(slots_2017,"Simulations/slots_2017.csv",row.names=FALSE)
     # - bench points
     # - player level statistics (average minutes played, number of starting freshman, number of McD all americans, average height, age, etc)
     # - vegas betting lines before start of tournament
+    # - train on more years of data to avoid overfitting to more recent years. Though it might make sense to somehow weight recent years more heavily
+    #       the idea being that a team that is good this year was more likely to have been good last year.
+    # - figure out how to include the team names in the model so can capture things like "teams like often have upsets" or teams that often choke, etc
+    
   
   
   
