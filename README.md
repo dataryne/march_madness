@@ -15,6 +15,7 @@ TODO: Create some visuals showing the results
  - https://data.world/datasets/ncaa  
 
 ## References on modeling  
+ - http://www.kdnuggets.com/2017/03/machine-learning-march-madness.html
  - https://fivethirtyeight.com/features/how-fivethirtyeight-is-forecasting-the-2017-ncaa-tournament/
  - https://16winsaring.com/beyond-basic-bracketology-a-march-madness-deep-dive-71fca01ee8bb#.gm4sno3jr (see esp. the other github repos mentioned)
  - http://www.maa.org/meetings/calendar-events/march-mathness
